@@ -34,6 +34,7 @@ if options == "Friendly":
 else:
     quests = {}
     start_value = 0
+    win_value = 0
 
 
 for name, value in quests.items():
