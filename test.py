@@ -29,8 +29,8 @@ if options == "Friendly":
         "Dwarf": {"cost": 60, "days": 3, "per day": 3},
         "Vath": {"cost": 70, "days": 3, "per day": 3},
     }
-    start_value = 510
-    win_value = 720
+    start_value = 0
+    win_value = 510
 else:
     quests = {}
     start_value = 0
